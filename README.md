@@ -4,6 +4,8 @@ Manage candidates through hiring stages, search and filter them, run a drag-and-
 
 **Stack:** MongoDB · Express · React 18 (Vite) · Node.js
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/himanshu-gupta15/mini-ats)
+
 ## Quick start
 
 ```bash
